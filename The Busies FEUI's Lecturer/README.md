@@ -10,4 +10,4 @@ skills, espesialy using pandas str and regex method.
 ### Calendar heatmap **Tweet Created** by @birpendfeui.
 ![](tweet%20birpend%20heatmap.png)
 
-##### thanks to @rougierrougier for the code.
+##### thanks to @rougier for the code.
