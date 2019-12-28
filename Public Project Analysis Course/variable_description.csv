@@ -1,0 +1,125 @@
+Column1.1.1,Description, dataset_source_end, dataset_source_base
+GTTteach_govt,Number of contract teachers hired by government,,
+GTTteach_govt1,Number of contract teachers hired by central government,,
+GTTteach_govt1 ,, fg14=2, fg14=2
+GTTteach_govt2,Number of contract teachers hired by local government, fg14=3, fg14=3
+GTTteach_school,Number of contract teachers hired by school directly,,
+GTTteach_school ,, fg14=4, fg14=4
+OBfractwithteach,Fraction of classrooms with teachers (of those classrooms with teachers),,
+PNSteach,Number of civil servant teachers, fg14 =1, fg14 =1
+Pallhh_min,Total  number of minutes all household members accompanied child studying at home in past week,,
+Pchildatt,Emphasis parents put on childâ€™s education (compilation,,
+Pcont,Amount  of voluntary financial and in-kind donations from parents to school committee in past year (Rupiah /thousands),  usumbange, ce22ai+ce22ai
+Pcont_bar,,sumbange, ce22bii
+Pcont_physical,Whether parents contributed in-kind to school committee in past year, sumbangbarend, ce22aii
+Pcont_u,, sumbangue, ce22bi
+Pknow_scexist,Parents know there is a school committee,,
+Pknow_scexist ,, CJ1, CJ1
+Pknow_scmem,Parents know names of school committee members,,
+Pknow_scmem ,, CJ3a, CJ3a
+Pmeet_teacher,Number  of times parents met with teacher in the last three months to discuss childâ€™s performance (other than to pick up report card),,
+Pmtgrapbs,Whether there was a meeting at the school about the budget, CH21, CH21
+Prap_a,Whether parents were told about school fee year 2007/08,,
+Prap_b,Whether parents were told about school program year 2007/08,,
+Prap_c,Whether parents were told about school funding  year 2007/08,,
+Prap_d,Whether parents were told about school funding and budgeting plan (RAPBS) in the school year 2007/08,,
+Prap_score,Parents were told about all nformation from the School score (average ,,
+Prapbs,,  ci21,  ci21
+Prapbs ,,CI21d , CI21d
+Prapbs_number ,, ci2no, ci2no
+Psatcomm,Parentsâ€™ satisfaction with support from community,,
+Psatlearnknow,Whether  parents were able to answer a question about their satisfaction with student test scores in 2007/08, cg1b , cg1b 
+Psatparents,Parentsâ€™ satisfaction with parentsâ€™ involvement in school and learning,,
+Psatteachers,Parentsâ€™ satisfaction with quality and performance of teachers,,
+Pscanswer,Parents  are able to answer series of questions about school committee activities and performance,,
+Pscanswer ,, CJ4, CJ4
+Pteacherperception,Parentsâ€™ perceptions of teacher effort and approachability,,
+Pvisit,Whether,,
+SCbpd,Whether the school,,
+SCbpd ,, AK5, AK5
+SCbpd ,, aK5, aK5
+SCcomfundraise,"Community, private sector and other contributions in the first semester of school year 2007/08 (Rupiah in millions)",,
+SCcominkind,"Whether  community, private sector or any other private person/organization provided in- kind donations in the first semester of school year 2007/08",,
+SCdistrapbs,Whether  materials about school funding and budgeting were distributed to parents in school year 2007/08, aH37a4, aH37aiv
+SCintmeettot,Number  of internal formal and informal school committee meetings without principal or parents,,
+SCmeetbpd,Whether school committee has ever had a meeting with village council,,
+SCmeetcomm,Whether school committee has ever had a meeting with any set of community groups,,
+SCmeetdinas,Number  of formal meetings between school committee and Dinas kab/kota/keca (invited by Dinas),,
+SCmeetparents,"Number of formal meetings with school committee and parents, but principal not invited",,
+SCmeetprincipaltot,"Number of informal and formal meetings with school committee, principal to discuss school issues/problems",,
+SCmeettripartite,"Number of formal meetings with school committee, principal, parents",,
+SCmeettripartite ,, af11b, af11b
+SCnonbpd,Whether  school committee cooperated with any non-educational community organizations other than the village council in the school year 2007/08,,
+SCparfundraise,Parental contributions in the first semester of school year 2007/08 (Rupiah in millions),,
+SCparfundraise_a ,, AH11b1, AH11bi 
+SCparfundraise_b ,, AH11b2,AH11bii
+SCparinkind,Whether parents provided in-kind donations in the first semester of school year 2007/08, AH13a1, AH13ai
+SCposcontr,Whether  school committee helped meet schoolâ€™s needs during the first semester of school year 2007/08, ah15, ah15
+SCprinceffort,School  committee representativesâ€™ perception of whether principal has taken measures to address issues that are holding back learning,,
+SCrapbs,Involvement  of school committee in developing school budget (according to school committee),,
+SCrapbs ,, AF33c, AF33c
+SCrecrapbs,Whether school committee received the school budget in school year 2007/08, aC17a, aC17a
+SCrecrapbs ,, AC17a, AC17a
+SCsat,parents                School committee representativesâ€™ satisfaction with parentsâ€™ support for pupilsâ€™ education,,
+SCsatbpd,School  committee representativesâ€™ satisfaction with village councilâ€™s attention to education in the village,,
+SCsatbpd ,, AK8, AK8
+SCsatbpd ,,aK8,aK8
+SCsatcomm,School committee representativesâ€™ satisfaction with support from community,,
+SCsatlearn,, ae1b, ae1b
+SCsatteachers,School committee representativesâ€™ satisfaction with quality and performance of teachers,,
+SCsizeinkind,School  committeesâ€™ subjective assessment of in kind contributions of parents to school committee in past semester,,
+SCsizeinkind ,, AH13c1, AH13ci
+SCteachnoprob,School  committee representativesâ€™ perception of whether teacher quality has been a problem,,
+SPbpd,Whether the school,,
+SPbpd ,, BG5, BG5
+SPbpd ,,bG5,bG5
+SPinviterapbs,"Involvement  of school committee and community in developing school budget, according to principal", bf210c, bf210c
+SPmeetsc,Number  of informal meetings with principal and school committee representative + number of formal meetings with principal and school committee members + number of formal meetings with entire school committee,,
+SPmeetteach,Number of meetings between principal and teachers during school year 2007/08,,
+SPnonbpd,Whether school cooperated with any non-educational community organizations other than the village council in the school year 2007/08,,
+SPparents,involve         Principalsâ€™ assessment of parentsâ€™ involvement in school and learning,,
+SPparentsrapbs,Whether parents were told about school funding and budgeting in the school year 2007/08,,
+SPparentsrapbs ,, BF39a4 , BF39a4 
+SPsatbpd,Principalsâ€™ assessment of extent of village councilâ€™s,,
+SPsatbpd ,, BG8, BG8
+SPsatbpd ,,bG8,bG8
+SPsatcomm,Principalâ€™s satisfaction with support from community,,
+SPsatlearn,Principalsâ€™ satisfaction with student test scores in 2007/08, bc21b, bc21b
+SPsatpar,Principalsâ€™ satisfaction with parentsâ€™ support for,,
+SPsatteach,Principalsâ€™ satisfaction with quality and performance of teachers,,
+SPsceffective,"School committeesâ€™ cooperation, support, outreach and involvement in the school and community, according to principals",,
+SPsceffective_a,"School committeesâ€™ cooperation, support, outreach and involvement in the school and community, according to principals (inviting comunity)", bf215a, bf215a
+SPsceffective_b,"School committeesâ€™ cooperation, support, outreach and involvement in the school and community, according to principals (submitting suggestions)", bf215b, bf215b
+SPsceffective_c,"School committeesâ€™ cooperation, support, outreach and involvement in the school and community, according to principals (hearing)", bf215c, bf215c
+SPsceffective_d,"School committeesâ€™ cooperation, support, outreach and involvement in the school and community, according to principals (coorporated)", bf215d, bf215d
+SPteachaccount,"Whether  principal sanctions teachers who donâ€™t perform well (trough warnings or training), according to principals",,
+SPteachaward,"Whether  principal rewards teachers who perform well (through recognition or gift/money), according to principals",,
+SPteacheval,Whether  principal conducts oral or written evaluations of teacher performance beyond compulsory yearly evaluation and whether results are given to teacher verbally or in writing,,
+Scparfundraise ,, AH11b1, AH11b1
+Scparinkind ,, AH13a1, AH13a1
+Scrapbs,, aF33c, aF33c
+Scsatlearn,School committee representativesâ€™ satisfaction with student test scores in 2007/08,,
+Shome,"support              Someone in the household promotes, accompanies and answers questions relating to home study",,
+Spparentsrapbs,, bF39a4 , bF39aiv
+Taccount,"Whether  principal sanctions teachers who donâ€™t perform well (trough warnings or training), according to teachers",,
+Thours,Number of hours worked,,
+Tjumlah,, fg0row, fg0row
+Tmeetparents,Number  of times in past three months that teacher met with parents to discuss student learning,,
+Tparents,perception      Whether teachers think parents of her/his pupils can help students improve achievement,,
+Tparents,perception1    Teachersâ€™ perception about parentsâ€™ involvement (actual and desired),,
+Tprinceval,Whether  principal conducts evaluations of teacher performance beyond compulsory yearly evaluation to teachers,,
+Tprincipal,Teachersâ€™ overall assessment of principal (principal rated on seven,,
+Tprincmeet,Number of routine meetings between principal and teachers in past year,,
+Treward,"Whether  principal rewards teachers who perform well (through recognition or gift/money), according to teachers",,
+Tsatcomm,Teachersâ€™ satisfaction with support from community,,
+Tsatlearn,Teachersâ€™ satisfaction with student test scores in, ec1b , ec1b 
+Tsatpar,Teachersâ€™ satisfaction with parentsâ€™,,
+Tsatteach,Teachersâ€™ satisfaction with quality and performance of teachers,,
+Tscmeet,School committee invited teachers to discuss,,
+Tscperception,Teachersâ€™ evaluation of school committee effectiveness (average score),,
+Tscperception_a,Teachersâ€™ evaluation of school committee effectiveness (democracy), eh21a, eh21a
+Tscperception_b,Teachersâ€™ evaluation of school committee effectiveness (openess), eh21b, eh21b
+Tscperception_c,Teachersâ€™ evaluation of school committee effectiveness (cooperated), eh21c, eh21c
+Tscperception_c,Teachersâ€™ evaluation of school committee effectiveness (welfare), eh21c, eh21c
+Tscperception_d,, eh21d, eh21d
+Tstatus,, fg14, fg14
