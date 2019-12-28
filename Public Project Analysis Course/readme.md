@@ -1,4 +1,4 @@
- Data prepocessing Final Assigment APP- ECEU601003
+Final Assigment APP- ECEU601003
 ==========================
 ### Public Project Analysis Course
 * By Redi Sunarta 1606888216 & Dhifani Lutya A 1606829466
