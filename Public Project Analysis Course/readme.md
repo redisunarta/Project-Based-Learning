@@ -10,9 +10,11 @@ Final Assigment APP- ECEU601003
 ![](test_scoredist.png)
 
 #### The Preprocessing Data Process
-1.     Determine the variable interest 
-2.     Search the variable keyword in questionare
-3.     Collecting (from each data in dictionary) 
-4.     Merging them in same aggregation (shcool level) 
-5.     Do cleansing data 
-6.     Modeling
+```S
+1. Determine the variable interest 
+2. Search the variable keyword in questionare
+3. Collecting (from each data in dictionary) 
+4. Merging them in same aggregation (shcool level) 
+5. Do cleansing data 
+6. Modeling
+```
