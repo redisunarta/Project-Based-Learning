@@ -22,5 +22,10 @@ This is in line with the survey results from Linkedin. In short, the viral tweet
 
 <p align="center">
 <img src="/Indonesia's%20Job%20Market:%20Does%20A%20Degree%20Still%20Matter%3F/asset/keyword.png" />
+</p>
+
+---
+
+<p align="center">
 <img src="/Indonesia's%20Job%20Market:%20Does%20A%20Degree%20Still%20Matter%3F/asset/salary.png"/>
 </p>
