@@ -21,6 +21,6 @@ Moreover, the many skills displayed are more likely to be in general soft skills
 This is in line with the survey results from Linkedin. In short, the viral tweet can be said to be partially incorrect based on the data.
 
 <p align="center">
-<img src="/Indonesia's%20Job%20Market:%20Does%20A%20Degree%20Still%20Matter%3F/asset/toga.png" width="550" height="390" />
+<img src="/Indonesia's%20Job%20Market:%20Does%20A%20Degree%20Still%20Matter%3F/asset/keyword.png" />
 <img src="/Indonesia's%20Job%20Market:%20Does%20A%20Degree%20Still%20Matter%3F/asset/salary.png"/>
 </p>
