@@ -1,6 +1,5 @@
 ## Data Analyst Nanodegree Program
 
-### About
 *This folder contains my project work for Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) from the April 2020 cohort.*
 
 ### Projects
