@@ -1,0 +1,138 @@
+b3a_br1.dta br00xa : Interviewer chek!
+b3a_dl1.dta dl01a : What languages do you speaks in your daily life at home
+b3a_dl1.dta dl01f : What is your ethinicity
+b3a_dl1.dta dl01g : What is your father ethinicity
+b3a_dl1.dta dl01h : What is your mothers ethinicity
+b3a_dl1.dta dl01e : Which ethnical group is primarily influential in daily activities of your househ
+b3a_dl1.dta dl02 : Can you read an Indonesian-languages newspaper
+b3a_dl1.dta dl02a : Can you read a newpaper in another languages
+b3a_dl1.dta dl03 : Can you write a letter in Indonesian?
+b3a_dl1.dta dl03a : Can you write a letter in another language?
+b3a_dl1.dta dl03b : Do you have cell phone?
+b3a_dl1.dta dl03c : What do you usually use the cell phone for?
+b3a_dl1.dta dl03d : Do you have internet access?
+b3a_dl1.dta dl03e : Where do you get internet access?
+b3a_dl1.dta dl04 : Have you ever attended/are you attending school?
+b3a_dl1.dta dl06 : Highest level of education attended
+b3a_dl1.dta dl07 : What is the highest grade completed at that school?
+b3a_dl1.dta dl05a : At what age did you enter school
+b3a_dl1.dta dl05b : Did you attend kindergarten
+b3a_dl1.dta dl05 : IVWR NOTE: RESPONDENT AGE
+b3a_dl1.dta dl08a : Levels of schooling attended since June 2000
+b3a_dl1.dta dl40 : Did you receive any books from school during 2013-2014?
+b3a_dl1.dta dl43 : From what source was this assistance ?
+b3a_dl2.dta dl16fkf : KOMFAS code for school
+b3a_dl2.dta dl16f_a : What languages ??are used in teaching at this school [ ... ] ?
+b3a_dl5.dta dl43l1 : From what source was this assistance, and what was the total value? Aid for poor
+b3a_dl5.dta match_dl5 : 
+b3a_dl5.dta match_dl6 : 
+b3a_dl5.dta match_dl1 : 
+b3a_hr0.dta hr300a : hr300a.Ivw Chk: Resp answered Book II
+b3a_kw1.dta kw300a : CAPI CEK  COV 2: APAKAH RESPONDEN MERUPAKAN RESPONDEN LANJUTAN BUKU  IIIA (AR01g
+b3a_kw1.dta kw12a : What was the bride price/dowry for your current/ most recent marriage?
+b3a_kw1.dta kw13a : What did you receive as a gift, not a dowry/bride price, at the time of your cur
+b3a_kw1.dta kw14g : Who else lived in the house when live together?
+b3a_kw3.dta kwn_num : Marriage number
+b3a_kw3.dta kw10x : When did you get married? (able to answer)
+b3a_kw3.dta kw10mth : What month did you get married?
+b3a_kw3.dta kw10yr : What year did you get married?
+b3a_kw3.dta kw11a : Did you and your current/latest partner live together before the wedding?
+b3a_kw3.dta kw11b : What is the status of your [...]  marriage
+b3a_kw3.dta kw20 : Highest education level attended by  your husband/wife of the [...] marriage
+b3a_kw3.dta kw21 : Highest grade completed by  your husband/wife of the [...] marriage
+b3a_kw3.dta kw22x : Iwvr chk: Resp panel or new?
+b3a_mg1.dta mg00x : Interview check: Panel/New respondent
+b3a_mg1.dta mg18a : IVWR: Panel respondent
+b3a_mg1.dta mg20b1 : IVWR: Panel respondent with MG preprinted
+b3a_mg1.dta mg20c : Now we would like to ask you how many times you moved since interview in
+b3a_mg1.dta mg20d : IVWR: Check MG20C
+b3a_mg2.dta movenum : # of migrations since age 12
+b3a_mg2.dta mg21bx : What is Kecamatan of this migration?
+b3a_mg2.dta mg21cx : What is Kabupaten of this migration?
+b3a_mg2.dta mg21dx : What is the Prov of this migration?
+b3a_mg2.dta mg21ex : Name of country of this migration
+b3a_mg2.dta mg21e : Code of country of this migration
+b3a_mg2.dta mg21d : Code of Prov of this migration
+b3a_mg2.dta mg21c : Code of Kabupaten of this migration
+b3a_mg2.dta mg21b : Code of kecamatan of this migration
+b3a_mg2.dta mg24x : When did you move here?
+b3a_mg2.dta mg24mth : Month you moved here
+b3a_mg2.dta mg24yr : Year you moved here
+b3a_mg2.dta mg26 : Which describes migration place?
+b3a_mg2.dta mg27x : How many kms between old/new places?
+b3a_mg2.dta mg28 : Main reason for move
+b3a_mg2.dta mg34 : Did other Householders move with you?
+b3a_mg2.dta mg36 : Which Householder move with you when you moved?
+b3a_mg2.dta mg39 : Did you move after this?
+b3a_pk1.dta pk00a : Are you currently married/cohabitate?
+b3a_pk1.dta pk00b : Does your spouse live in this household now/in the last 6 months?
+b3a_pk1.dta pk19a : Ivwr check: Respondent is a panel respondent
+b3a_pna1.dta pna01 : Please tell  me what  day  yesterday ?
+b3a_pna1.dta pna01_b : CAPI CHECK: DAY YESTERDAY
+b3a_pna1.dta pna02 : CAPI CHECK: DAY OF ACCORD WITH RESPONDEN
+b3a_pna1.dta pna04hr : Please tell me what time you woke up yesterday?
+b3a_pna1.dta pna04mnt : Please tell me what time you woke up yesterday?
+b3a_pna1.dta pna05hr : What time did you go to sleep yesterday?
+b3a_pna1.dta pna5mnt : What time did you go to sleep yesterday?
+b3a_pna1.dta pna06x : CAPI CHEK COVRANDOM  PNA06.   LIST A     LIST B   LIST C    LIST D
+b3a_pna1.dta pna07xx : CAPI Check: PNA07 = 1 ?
+b3a_pna1.dta pna08 : Yesterday were you bothered by a   [...] ?
+b3a_pna1.dta pna10 : Treatment / actions that have  you done to treat the pain?
+b3a_re1.dta re1 : Interviewer check: is respondent 50 or above
+b3a_si.dta idrtk : 
+b3a_si.dta stemid : 
+b3a_si.dta random_si : RANDOM SI
+b3a_si.dta si01 : si01.  Rp 800,000/mo vs  Rp 1,600,000/mo or Rp 800,000/mo
+b3a_si.dta si11 : si11. Rp 4,000,000/mo vs Rp 4,000,000 or Rp 2,000,000/mo
+b3a_si.dta si13 : si13. Rp 4,000,000/no vs Rp 12,000,000/mo or Rp 0/mo
+b3a_si.dta si21a : si21a. Lottery:  Rp 1,000,000 today or Rp 1,000,000 in 1 year
+b3a_si.dta si21b : si21b. Lottery:  Rp 1,000,000 today or Rp 3,000,000 in 1 year
+b3a_si.dta si22a : si21a. Lottery:  Rp 1,000,000 today or Rp 500,000  in 5 years
+b3a_si.dta si22b : si21b. Lottery:  Rp 1,000,000 today or Rp 4,000,000 in 5 years
+b3a_si.dta si22c : si21c. Lottery:  Rp 1,000,000 today or Rp 10,000,000 in 5 years
+b3a_sw.dta sw00 : Please think about your life as a wholHow satisfied are you with it?
+b3a_sw.dta sw01 : On which economic step do you consider yourself today
+b3a_sw.dta sw02 : On which economic step were you five year ago
+b3a_sw.dta sw03 : On which economic step will you be five year from now
+b3a_sw.dta sw03a : Can keep the standard of living in next 5 years
+b3a_sw.dta sw03b : Current family life less or very satisfying
+b3a_sw.dta sw04 : Concerning current standart of living
+b3a_sw.dta sw05 : Concerning your food consumption
+b3a_sw.dta sw06 : Concerning your health status
+b3a_sw.dta sw07 : Do you have child under 15 years that live in this HH
+b3a_sw.dta sw12 : Taken all things together how would you say things are these days
+b3a_tk1.dta tk01a : During the past week
+b3a_tk1.dta tk01b : During the past week
+b3a_tk1.dta tk01c : During the past week
+b3a_tk1.dta tk01d : During the past week
+b3a_tk1.dta tk01 : Primary activity during past week
+b3a_tk1.dta tk08 : Why havent you worked again since then?
+b3a_tk1.dta tk16d : Are you curently looking for a job
+b3a_tk1.dta tk16i : In the past 12 months, have you been preparing to set up a business?
+b3a_tk1.dta tk16k : INTERVIEWER CHECK : TK01
+b3a_tk2.dta tk18abx : What is telephone number of the company?
+b3a_tk2.dta tk20aax : How many people work at your firm? (able to answer)
+b3a_tk2.dta tk20aa : How many people work at your firm?
+b3a_tk2.dta tk21a : Total # of hrs worked lst/wk: Job 1
+b3a_tk2.dta tk22a : Normal tot hrs workd per week: Job 1
+b3a_tk2.dta tk23a : Approx tot weeks workd per year: Job 1
+b3a_tk2.dta tk23a2y : How long have you worked on this job? (month)
+b3a_tk2.dta tk23a2m : How long have you worked on this job? (year)
+b3a_tk2.dta tk23a4 : Are you a member of a labor union or a business association?
+b3a_tk2.dta tk24a : Which category best describes the work that you do?
+b3a_tk2.dta tk25a10 : What kind of training did you receive in the last 12 months
+b3a_tk2.dta tk26a5 : My jobs requires lots of physical effort
+b3a_tk2.dta tk26a6 : My job requires lifting heavy loads
+b3a_tk2.dta tk26a7 : My job requires stooping
+b3a_tk2.dta tk26a8 : My job requires good eyesight
+b3a_tk2.dta tk26a9 : My job requires intense concentration/attention
+b3a_tk2.dta tk26a10 : My job requires skill in dealing with people
+b3a_tk2.dta tk26a11 : My job requires me to work with computer
+b3a_tk2.dta tk26a12 : My job involves a lot of stress
+b3a_tk2.dta occ2014_primary : primary occupation
+b3a_tk2.dta tk19ab : CODE FOR SECTORS
+b3a_tk2.dta tk23ax : able to answer question TK23A
+b3a_tk2.dta tk23a2mx : able to answer question TK23A2M
+b3a_tk2.dta tk23a2yx : able to answer question TK23A2Y
+b3a_tk2.dta tk27 : Do you have an additional job?
+b3a_tk2.dta occ2014_secondary : secondary occupation
